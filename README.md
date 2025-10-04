@@ -25,11 +25,5 @@ After running `npm install`, this project will install the following packages:
 ```bash 
 node server.js
 ```
-or
-
-```bash
-nodemon server.js
-```
-
 ### 4. Open the App in Your Browser
 - [Right here dawg](http://localhost:3000)
